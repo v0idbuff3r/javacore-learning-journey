@@ -1,0 +1,27 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# IntelliJ
+.idea/
+*.iml
+
+# Java build output
+out/
+target/
+build/
+
+# compiled
+**/*.class
+
+# IDE
+.idea/
+*.iml/
+.vscode/
+
+# OS
+.DS_Store
+
+# my ignored files
+**/*.class
+
